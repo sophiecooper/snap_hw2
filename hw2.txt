@@ -1,5 +1,26 @@
 Welcome to the second week of class.
-Today you will work in groups of two.
+Today you will work in groups of two. Please answer questions in succinct words.
 Assignment is:
 1) In each group, one person will fork this repository
-2) 
+2) Add your partner as a collaborator
+3) Answer questions on this txt separately on separate machines (This will require both students separately pulling the forked repository)
+4) Add this file, commit and push
+5) Make a pull request
+
+Edit below:
+Person A's Name:
+Person B's Name:
+
+Question for A:
+1) What does git clone do?
+PUT YOUR ANSWER HERE
+
+2) What is a remote repository?
+PUT YOUR ANSWER HERE
+
+Question for B:
+1) Why is version-control framework such as git important?
+PUT YOUR ANSWER HERE
+
+2) Explain the concept of branching in git
+PUT YOUR ANSWER HERE
