@@ -8,15 +8,15 @@ Assignment is:
 5) Make a pull request
 
 Edit below:
-Person A's Name:
-Person B's Name:
+Person A's Name: Sophie Cooper
+Person B's Name: Jasmine Deng
 
 Question for A:
 1) What does git clone do?
-PUT YOUR ANSWER HERE
+Git clone copies the repository from GitHub and puts it on your local machine so you can work on it.
 
 2) What is a remote repository?
-PUT YOUR ANSWER HERE
+Remote repositories are repos other than the one on your local machine. Any repo on Github or other online service is a remote repository. 
 
 Question for B:
 1) Why is version-control framework such as git important?
