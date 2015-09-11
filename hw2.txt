@@ -20,7 +20,7 @@ Remote repositories are repos other than the one on your local machine. Any repo
 
 Question for B:
 1) Why is version-control framework such as git important?
-PUT YOUR ANSWER HERE
+You can pull information, edit it separately, revert versions, work on code together with other people simultaneously, etc.
 
 2) Explain the concept of branching in git
-PUT YOUR ANSWER HERE
+Branching is when you take a separate version of the data at some point and then edit it independently of the original copy of data.
